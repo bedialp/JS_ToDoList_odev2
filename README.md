@@ -1,1 +1,1 @@
-# JS_ToDoList_odev2
+# javaScript toDo List ödev2
